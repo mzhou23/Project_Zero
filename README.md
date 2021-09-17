@@ -30,7 +30,7 @@ Designer: Katie Andre <br>
 Lead Audio Artist: Izzy Hurley <br>
 Quality Assurance Specialist: Elliot Zhou <br>
 
-> Please visit the project *[wiki](https://github.com/mzhou23/Project_Zero.wiki.git)* for more details.
+> Please visit the project *[wiki](https://github.com/mzhou23/Project_Zero/wiki)* for more details.
 
 
 
