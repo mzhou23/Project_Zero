@@ -30,6 +30,8 @@ Designer: Katie Andre <br>
 Lead Audio Artist: Izzy Hurley <br>
 Quality Assurance Specialist: Elliot Zhou <br>
 
+> Please visit the project wiki for more details.
+
 
 
 
