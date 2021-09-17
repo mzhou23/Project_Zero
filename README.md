@@ -30,8 +30,12 @@ Designer: Katie Andre <br>
 Lead Audio Artist: Izzy Hurley <br>
 Quality Assurance Specialist: Elliot Zhou <br>
 
-> Please visit the project *[wiki](https://github.com/mzhou23/Project_Zero/wiki)* for more details.
+> Please visit the project *[wiki](https://github.com/mzhou23/Project_Zero/wiki)* or *[documentation website](https://mzhou23.gitbook.io/project-zero/)* for more details.
 
+## Extension
 
+1. I created an elaborate "Read Me" file using Markdown
+2. Generate the wiki as above
+3. Generate a documentation website for the project as above.
 
 
