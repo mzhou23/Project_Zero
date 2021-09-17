@@ -10,7 +10,7 @@ This is the first project for CS321, in which I uploaded a game project from CS2
 
 ## Game story line
 
-You are a sous chef of a famus chef, chef Haruto. Chef Haruto has recently announced his retirement. To keep his sushi bar running, he left a special recipe to only one of his two most promising sous chefs. Chef Haruto has hidden the different ingredients around the restaurant.  You must navigate yourself through the restaurant and collect more ingredients than your rival does, but both you and your counterpart are armed, BE CAREFUL!
+You are a sous chef of a famous chef, chef Haruto. Chef Haruto has recently announced his retirement. To keep his sushi bar running, he left a special recipe to only one of his two most promising sous chefs. Chef Haruto has hidden the different ingredients around the restaurant.  You must navigate yourself through the restaurant and collect more ingredients than your rival does, but both you and your counterpart are armed, BE CAREFUL!
 
 ## Game Control And game rule
 
